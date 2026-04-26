@@ -42,3 +42,6 @@ The Temple Fund Billing System is a desktop application developed using PyQt5 to
   Digital receipt generation
   Excel-based transaction logs
   Dashboard analytics
+
+<img width="728" height="478" alt="reciept_generation" src="https://github.com/user-attachments/assets/88e5fff7-b6e8-439f-b60e-bf8403660b92" />
+<img width="778" height="278" alt="summary_analysis" src="https://github.com/user-attachments/assets/c39fc4e5-91f3-4682-96de-8c638c14abd1" />
